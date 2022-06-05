@@ -25,9 +25,9 @@ I had been working as a tester for 4 months in Yandex
 * **ITMO University** - National Economy
 * **SPBGU** - Medieval History, Cultural Studies
 ## Courses:
-* YandexPrakticum (QA Ingeneer)
-* SkillBox (Web design)
-* HTML Academy (HTML/CSS)
+* YandexPrakticum ***(QA Ingeneer)***
+* SkillBox ***(Web design)***
+* HTML Academy ***(HTML/CSS)***
 ## Languages
 * English - B1
 * German - A2
